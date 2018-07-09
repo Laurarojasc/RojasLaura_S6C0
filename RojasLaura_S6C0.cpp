@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -30,4 +31,3 @@ int N,h;
 
  return 0;
 }
-
